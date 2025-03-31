@@ -1,0 +1,2 @@
+hello, this is a sample content for the source file.
+this file will be copied to another file.
